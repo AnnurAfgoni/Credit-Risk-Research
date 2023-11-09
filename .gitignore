@@ -1,0 +1,9 @@
+# folder log
+log/
+
+# excel and csv
+*.xlsx
+*.xls 
+*.csv
+
+# ignore
